@@ -1,6 +1,6 @@
 a,b = 3,5
 
-emp = a
+temp = a
 a = b
 b = temp
 
